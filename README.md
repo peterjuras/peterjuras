@@ -1,6 +1,6 @@
 ### Hello there, I'm Peter <img src="wave.gif" width="24px" alt="👋">
 
-Engineering Manager [@AutoScout24](https://github.com/AutoScout24) 🚗 Co-Founder of [ORDA](https://www.orda-app.com) 👨‍💻 Previously
+Senior Engineering Manager [@AutoScout24](https://github.com/AutoScout24) 🚗 Co-Founder of [ORDA](https://www.orda-app.com) 👨‍💻 Previously
 [@microsoft](https://github.com/microsoft)
 📎 Public [speaker](https://www.youtube.com/watch?v=3uH90g1Q5iY) 📣 Terrible Cook 👨‍🍳
 
